@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="C:/Users/user/.gradle/caches/modules-2/files-2.1/org.json/json/20140107/d1ffca6e2482b002702c6a576166fd685e3370e3/json-20140107.jar" sourcepath="C:/Users/user/.gradle/caches/modules-2/files-2.1/org.json/json/20140107/f53f91bc9c21fef71745450dea5200e423e38370/json-20140107-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/.gradle/caches/modules-2/files-2.1/redis.clients/jedis/2.7.2/f2f47f1025ea5090263820e8598e56eb47f5c88a/jedis-2.7.2.jar" sourcepath="C:/Users/user/.gradle/caches/modules-2/files-2.1/redis.clients/jedis/2.7.2/55255752ddf7daf9f7fb26a54eec58c00d6a4dfa/jedis-2.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-pool2/2.3/62a559a025fd890c30364296ece14643ba9c8c5b/commons-pool2-2.3.jar" sourcepath="C:/Users/user/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-pool2/2.3/9e03327e766c3d16ed34a617818ab082192e83a7/commons-pool2-2.3-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.generic_6.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
